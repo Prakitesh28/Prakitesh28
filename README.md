@@ -1,5 +1,4 @@
-[profile_README.md](https://github.com/user-attachments/files/26621821/profile_README.md)
-## Hi there 👋
+
 
 <!--
 **Prakitesh28/Prakitesh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
